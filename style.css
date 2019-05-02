@@ -1,0 +1,27 @@
+ button
+    {
+        
+        margin:60px 60px;
+        
+        width:300px;
+        height:400px;
+        
+        background:#6d6d6d;
+        color:#fff;
+        
+        font-family:Roboto;
+        
+        line-height: 1px;
+        text-align:center;
+        
+        
+    }
+    
+    button:hover
+    {
+        background:#365844;
+    }
+    button:onclick
+    {
+        background:#53ea93;
+    }
